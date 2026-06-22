@@ -23,7 +23,7 @@ My approach to data goes beyond just building static charts; I architect automat
 
 ---
 
-## 🚀 Featured Project Case Study (STAR Framework)
+## 🚀 Featured Project Case Study
 
 ### 📊 [Agent Banking Compliance & Risk Intelligence Framework](https://github.com/Addhey1/agent-banking-compliance-risk)
 *Click the link above to view the full terminal-to-dashboard operational codebase.*
