@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adewale Abiodun Oyenuga
 ### Data Analyst & Analytics Engineer
 
-I am a results-oriented **Data Analyst & Analytics Engineer** with a strong background in healthcare administration and financial risk frameworks. I specialize in bridging the gap between raw, messy backend engineering and high-impact executive decision-making. 
+I am a Data Analyst with expertise in analytics, compliance, and operational reporting across healthcare, financial services, and public sector environments. I specialise in turning complex data into clear insights through statistical analysis, dashboard development, and data-driven decision support.
 
 My approach to data goes beyond just building static charts; I architect automated data pipelines, optimize production relational databases, and engineer predictive modeling frameworks that empower leadership teams to transition from reactive troubleshooting to proactive strategy.
 
